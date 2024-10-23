@@ -11,7 +11,6 @@ This system is designed to meet the continuous learning needs of modern industri
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [System Architecture](#system-architecture)
-- [Setup Instructions](#setup-instructions)
 - [API Endpoints](#api-endpoints)
 ---
 
