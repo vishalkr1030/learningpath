@@ -75,7 +75,7 @@ This system is designed to meet the continuous learning needs of modern industri
 - POST /courses - Admin creates a new course
 - GET /courses/:id - Fetch a specific course
 
-###Performance and Certificates
+### Performance and Certificates
 - POST /performance/score - Submit employee performance score
 - POST /performance/certificate - Award certificate based on course completion
 
